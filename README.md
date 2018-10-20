@@ -15,3 +15,4 @@
 |Codeforces Round #516 (Div. 2, by Moscow Team Olympiad) A|Make a triangle!|水题|0|水题|
 |Codeforces Round #516 (Div. 2, by Moscow Team Olympiad) B|Equations of Mathematical Magic|打表找规律|1|不难发现，规律是2的(n二进制当中的1的个数)次方即为答案|
 |Codeforces Round #516 (Div. 2, by Moscow Team Olympiad) C|Oh Those Palindromes|找规律|1|..... 一遍sort就是答案|
+|Codeforces Round #516 (Div. 2, by Moscow Team Olympiad) D|Labyrinth|01BFS|1.5|一种只带两个权值的bfs，使用双端队列维护，左右前进的点放在队尾，上下前进的点放在队头|
