@@ -4,7 +4,7 @@
 >
 >难度从0~5分类
 
-**更新时间：2018年10月19日**
+**更新时间：2018年10月22日**
 
 
 |题号|标题|类型|难度|提示|
@@ -16,3 +16,5 @@
 |Codeforces Round #516 (Div. 2, by Moscow Team Olympiad) B|Equations of Mathematical Magic|打表找规律|1|不难发现，规律是2的(n二进制当中的1的个数)次方即为答案|
 |Codeforces Round #516 (Div. 2, by Moscow Team Olympiad) C|Oh Those Palindromes|找规律|1|..... 一遍sort就是答案|
 |Codeforces Round #516 (Div. 2, by Moscow Team Olympiad) D|Labyrinth|01BFS|1.5|一种只带两个权值的bfs，使用双端队列维护，左右前进的点放在队尾，上下前进的点放在队头|
+|Codeforces Round #517 (Div. 2) A|Golden Plate|水题|0.5|水题|
+|Codeforces Round #517 (Div. 2) B|Curiosity Has No Limits|暴力|1.5|题目的数据范围不大，暴力枚举所有情况最后把第一个符合的情况输出就好|
