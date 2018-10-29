@@ -19,5 +19,6 @@
 |Codeforces Round #517 (Div. 2) A|Golden Plate|水题|0.5|水题|
 |Codeforces Round #517 (Div. 2) B|Curiosity Has No Limits|暴力|1.5|题目的数据范围不大，暴力枚举所有情况最后把第一个符合的情况输出就好|
 |Codeforces Round #517 (Div. 2) C|Cram Time|贪心+暴力|1.5|找到第一个可以包括所有时间的值，之后向下贪心优先第一天取即可|
-|Codeforces Round #517 (Div. 2) A|Diverse Substring|思维|0.5|想偏了其实不太好做的，过程很简单|
-|Codeforces Round #517 (Div. 2) B|Vasya and Books|模拟|0.5|怎么操作都行|
+|Educational Codeforces Round 53 A|Diverse Substring|思维|0.5|想偏了其实不太好做的，过程很简单|
+|Educational Codeforces Round 53 B|Vasya and Books|模拟|0.5|怎么操作都行|
+|Educational Codeforces Round 53 D|Berland Fair|暴力|1.5|回过头来看代码，你就会发现你和第一之间要么差很多，要么就差一个暴力|
