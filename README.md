@@ -18,3 +18,6 @@
 |Codeforces Round #516 (Div. 2, by Moscow Team Olympiad) D|Labyrinth|01BFS|1.5|一种只带两个权值的bfs，使用双端队列维护，左右前进的点放在队尾，上下前进的点放在队头|
 |Codeforces Round #517 (Div. 2) A|Golden Plate|水题|0.5|水题|
 |Codeforces Round #517 (Div. 2) B|Curiosity Has No Limits|暴力|1.5|题目的数据范围不大，暴力枚举所有情况最后把第一个符合的情况输出就好|
+|Codeforces Round #517 (Div. 2) C|Cram Time|贪心+暴力|1.5|找到第一个可以包括所有时间的值，之后向下贪心优先第一天取即可|
+|Codeforces Round #517 (Div. 2) A|Diverse Substring|思维|0.5|想偏了其实不太好做的，过程很简单|
+|Codeforces Round #517 (Div. 2) B|Vasya and Books|模拟|0.5|怎么操作都行|
